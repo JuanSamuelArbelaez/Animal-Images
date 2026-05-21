@@ -1,0 +1,7 @@
+{
+  "model_name": "EfficientNetB0",
+  "freeze_mode": "FT10",
+  "experimento": "EfficientNetB0_FT10",
+  "val_accuracy": 0.9935064911842346,
+  "epochs_trained": 10
+}
