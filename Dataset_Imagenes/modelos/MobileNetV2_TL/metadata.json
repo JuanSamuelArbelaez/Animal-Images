@@ -1,0 +1,7 @@
+{
+  "model_name": "MobileNetV2",
+  "freeze_mode": "TL",
+  "experimento": "MobileNetV2_TL",
+  "val_accuracy": 0.9935064911842346,
+  "epochs_trained": 10
+}
