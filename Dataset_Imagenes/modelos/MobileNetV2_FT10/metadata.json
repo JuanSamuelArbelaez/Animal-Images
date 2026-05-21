@@ -1,0 +1,7 @@
+{
+  "model_name": "MobileNetV2",
+  "freeze_mode": "FT10",
+  "experimento": "MobileNetV2_FT10",
+  "val_accuracy": 1.0,
+  "epochs_trained": 10
+}
