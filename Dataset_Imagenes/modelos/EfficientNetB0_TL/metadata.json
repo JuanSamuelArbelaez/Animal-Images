@@ -1,0 +1,7 @@
+{
+  "model_name": "EfficientNetB0",
+  "freeze_mode": "TL",
+  "experimento": "EfficientNetB0_TL",
+  "val_accuracy": 1.0,
+  "epochs_trained": 12
+}
